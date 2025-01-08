@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+/* app.css */
+
+@keyframes flap-wings {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(30deg);
+  }
+}
+
+.bird-icon {
+  width: 50px;
+  height: 50px;
+  animation: flap-wings 1s ease-in-out infinite;
+}
+
+.mask {
+  position: relative;
+}
+
+.part {
+  position: absolute;
+  width: 33.33%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: background-color 0.5s ease;
+}
+
+.part-0 {
+  left: 0;
+}
+
+.part-1 {
+  left: 33.33%;
+}
+
+.part-2 {
+  left: 66.66%;
+}
+
+.revealed {
+  background-color: transparent;
+}
