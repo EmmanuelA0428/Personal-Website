@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.0692482a.css",
+    "main.js": "/Personal-Website/static/js/main.e1caacb2.js",
+    "static/js/453.854e04de.chunk.js": "/Personal-Website/static/js/453.854e04de.chunk.js",
+    "static/media/DataCampCert2.png": "/Personal-Website/static/media/DataCampCert2.7bc834d8417e1c53ded6.png",
+    "static/media/ArcGIS_logo.png?width=40&height=40": "/Personal-Website/static/media/ArcGIS_logo.997b0045c760f2e62312.png",
+    "static/media/WorkExp1.jpeg": "/Personal-Website/static/media/WorkExp1.641addd5c4843a0dd81a.jpeg",
+    "static/media/WorkExp2.jpeg": "/Personal-Website/static/media/WorkExp2.ebf5702c85c3586cc4c3.jpeg",
+    "static/media/WorkExp3.png": "/Personal-Website/static/media/WorkExp3.77b681d66f10bfda4c2f.png",
+    "static/media/revicons.eot": "/Personal-Website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Personal-Website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Personal-Website/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Personal-Website/index.html",
+    "static/media/blog1Content.md": "/Personal-Website/static/media/blog1Content.e65c6c9bb37abc24a5f9.md",
+    "main.0692482a.css.map": "/Personal-Website/static/css/main.0692482a.css.map",
+    "main.e1caacb2.js.map": "/Personal-Website/static/js/main.e1caacb2.js.map",
+    "453.854e04de.chunk.js.map": "/Personal-Website/static/js/453.854e04de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0692482a.css",
+    "static/js/main.e1caacb2.js"
+  ]
+}
