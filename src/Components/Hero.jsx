@@ -41,25 +41,6 @@ const Hero = () => {
             <br />
             this journey of discovery as I use data to drive smarter decisions!"
           </p>
-
-          {/* Add icons and tooltips here */}
-          <div className="absolute bottom-40 flex space-x-6">
-            <IconWithTooltip icon={faBook} tooltipText="I love reading books" />
-            <IconWithTooltip icon={faPen} tooltipText="Writing is my passion" />
-            <IconWithTooltip
-              icon={faLaptop}
-              tooltipText="Coding is my profession"
-            />
-            <IconWithTooltip
-              icon={faBible}
-              tooltipText="Faith is important to me"
-            />
-            <IconWithTooltip
-              icon={faCoffee}
-              tooltipText="I enjoy a good cup of coffee"
-            />
-            <IconWithTooltip icon={faMusic} tooltipText="Music is my escape" />
-          </div>
         </div>
       </div>
     </div>
